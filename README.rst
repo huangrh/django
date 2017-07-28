@@ -43,6 +43,6 @@ To run Django's test suite:
   https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/unit-tests/#running-the-unit-tests
   
 
-To install the development version ([ref](https://docs.djangoproject.com/en/dev/intro/contributing/)): 
+To install the development version [ref](https://docs.djangoproject.com/en/dev/intro/contributing/):   
 * Install git
   
